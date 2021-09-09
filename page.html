@@ -35,6 +35,8 @@
                 elSlider = createSlider(1, 5, 3).parent("controles");
             }
             function draw() {
+                stroke(elColor.color());
+                strokeWeight(elSlider.value());
                 if (mouseIsPressed) {
                     line(pmouseX, pmouseY, mouseX, mouseY);
                 }
