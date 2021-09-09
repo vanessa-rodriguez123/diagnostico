@@ -10,18 +10,14 @@
     </head>
     <body>
         <header><h1>Dibuja un </h1></header>
-        <footer>
+	    <footer>
 		<a href="#" id="descarga">Descarga tu </a>
 		
-		<script>
-		 function agregarBoton(htmlID, texto, funcion) { 
-	            var o=document.getElementById(htmlID); 
-	             o.html+='<input type="button" value="'+texto+'" onclick="'+funcion+'">'; 
-		</script>
-		     
-            } 
+		               <div id="vinculos"></div>
+
             
 	</footer>
+        
         <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.min.js"></script>
         <script>
             var que = new URLSearchParams(window.location.search).get("dibuja");
@@ -34,7 +30,8 @@
                 background(255);
             }
             
-             
+           
+		     
  
             function draw() {
                 if (mouseIsPressed) {
@@ -49,4 +46,5 @@
             }
         </script>
     </body>
+	
 </html>
