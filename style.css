@@ -45,7 +45,9 @@ main p{
 footer {
     position: absolute;
     bottom: 0;
-    text-align: right;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 }
 
 footer a {
