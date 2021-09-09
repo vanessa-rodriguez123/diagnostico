@@ -10,20 +10,20 @@
     </head>
     <body>
         <header>
-            <h1>Nombre Apellido</h1>
+            <h1>Vanessa Rodríguez</h1>
         </header>
         <main>
-            <p>Preséntate en este párrafo, compartiendo la razón por la que tomas este Electivo. Intenta ser breve. Este párrafo tiene treinta palabras. Tú puedes agregar más, pero evita superar las cincuenta.</p>
+            <p>Voy en tercer año de Diseño y quiero tener mención en Visualidad y Medios. Tomé este electivo porque me interesa el diseño de páginas web, sobre todo en la parte interactiva. También para perderle miedo a la programación.</p>
         </main>     
         <footer>
         </footer>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.min.js"></script>
         <script>
-            var alternativas = ["perro", "gato", "tigre", "elefante"];
+            var alternativas = ["un unicornio", "un fénix", "un duende", "una sirena", "una hada"];
             function setup() {
                 var lugar = select("footer");
                 var alternativa = random(alternativas);
-                createA("page.html"+"?dibuja="+alternativa, "Dibuja un " + alternativa).parent(lugar);
+                createA("page.html"+"?dibuja="+alternativa, "Ponte creativo dibujando " + alternativa).parent(lugar);
                 noCanvas();
             }
         </script>
