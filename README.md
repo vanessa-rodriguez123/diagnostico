@@ -10,6 +10,8 @@ https://profesorfaco.github.io/interaccion/sesion_03/
 ![mi_atacazo_artistico (1)](https://user-images.githubusercontent.com/89948590/132761046-89bfab25-7e9f-4724-b98f-cd008d4a0251.jpg)
 ![mi_atacazo_artistico](https://user-images.githubusercontent.com/89948590/132761048-f8db9034-9d4f-4636-a056-a3834b41af9d.jpg)
 ![Hada de carola](https://user-images.githubusercontent.com/89948590/132762328-26c4a490-ee28-42fd-8422-ff7828bab91e.jpg)
+![Duendecillo ](https://user-images.githubusercontent.com/89948590/132763383-4c5cc911-b629-4674-b2c3-3e1f59eb8716.jpg)
+
 
 - - - - - - - 
 
