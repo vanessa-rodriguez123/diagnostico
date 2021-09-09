@@ -9,7 +9,7 @@ https://profesorfaco.github.io/interaccion/sesion_03/
 ![mi_atacazo_artistico (2)](https://user-images.githubusercontent.com/89948590/132761044-3f96f825-e0c8-46c0-a48a-ce9b29325bb8.jpg)
 ![mi_atacazo_artistico (1)](https://user-images.githubusercontent.com/89948590/132761046-89bfab25-7e9f-4724-b98f-cd008d4a0251.jpg)
 ![mi_atacazo_artistico](https://user-images.githubusercontent.com/89948590/132761048-f8db9034-9d4f-4636-a056-a3834b41af9d.jpg)
-![mi_atacazo_artistico (3)](https://user-images.githubusercontent.com/89948590/132761049-9f1fae1a-d76b-4f27-bab3-9031d053a945.jpg)
+![Hada de carola](https://user-images.githubusercontent.com/89948590/132762328-26c4a490-ee28-42fd-8422-ff7828bab91e.jpg)
 
 - - - - - - - 
 
