@@ -21,6 +21,8 @@
                 d.mousePressed(artemania);
                 createCanvas(windowWidth, windowHeight).position(0, 0).style("z-index", -1);
                 background(255);
+                elColor = createColorPicker("#777777").parent("controles");
+                elSlider = createSlider(1, 5, 3).parent("controles");
             }
             function draw() {
                 if (mouseIsPressed) {
